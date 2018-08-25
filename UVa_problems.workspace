@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="UVa_problems" Database="" Version="10.0.0">
+  <Project Name="TEX_Quotes" Path="TEX_Quotes/TEX_Quotes.project" Active="No"/>
+  <Project Name="Celebrity_Jeopardy" Path="Celebrity_Jeopardy/Celebrity_Jeopardy.project" Active="No"/>
+  <Project Name="Combination_Lock" Path="Combination_Lock/Combination_Lock.project" Active="No"/>
+  <Project Name="Searching_For_Nessy" Path="Searching_For_Nessy/Searching_For_Nessy.project" Active="No"/>
+  <Project Name="Relational_Operators" Path="Relational_Operators/Relational_Operators.project" Active="No"/>
+  <Project Name="Parking" Path="Parking/Parking.project" Active="No"/>
+  <Project Name="Division_Of_Nlogonia" Path="Division_Of_Nlogonia/Division_Of_Nlogonia.project" Active="No"/>
+  <Project Name="Automatic_Answer" Path="Automatic_Answer/Automatic_Answer.project" Active="No"/>
+  <Project Name="Cost_Cutting" Path="Cost_Cutting/Cost_Cutting.project" Active="No"/>
+  <Project Name="Language_Detection" Path="Language_Detection/Language_Detection.project" Active="No"/>
+  <Project Name="UVa-00230-Borrowers" Path="UVa-00230/UVa-00230.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="TEX_Quotes" ConfigName="Debug"/>
+      <Project Name="Celebrity_Jeopardy" ConfigName="Debug"/>
+      <Project Name="Combination_Lock" ConfigName="Debug"/>
+      <Project Name="Searching_For_Nessy" ConfigName="Debug"/>
+      <Project Name="Relational_Operators" ConfigName="Debug"/>
+      <Project Name="Parking" ConfigName="Debug"/>
+      <Project Name="Division_Of_Nlogonia" ConfigName="Debug"/>
+      <Project Name="Automatic_Answer" ConfigName="Debug"/>
+      <Project Name="Cost_Cutting" ConfigName="Debug"/>
+      <Project Name="Language_Detection" ConfigName="Debug"/>
+      <Project Name="UVa-00230-Borrowers" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="TEX_Quotes" ConfigName="Release"/>
+      <Project Name="Celebrity_Jeopardy" ConfigName="Release"/>
+      <Project Name="Combination_Lock" ConfigName="Release"/>
+      <Project Name="Searching_For_Nessy" ConfigName="Release"/>
+      <Project Name="Relational_Operators" ConfigName="Release"/>
+      <Project Name="Parking" ConfigName="Release"/>
+      <Project Name="Division_Of_Nlogonia" ConfigName="Release"/>
+      <Project Name="Automatic_Answer" ConfigName="Release"/>
+      <Project Name="Cost_Cutting" ConfigName="Release"/>
+      <Project Name="Language_Detection" ConfigName="Release"/>
+      <Project Name="UVa-00230-Borrowers" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
