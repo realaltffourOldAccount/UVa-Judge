@@ -10,7 +10,11 @@
   <Project Name="Automatic_Answer" Path="Automatic_Answer/Automatic_Answer.project" Active="No"/>
   <Project Name="Cost_Cutting" Path="Cost_Cutting/Cost_Cutting.project" Active="No"/>
   <Project Name="Language_Detection" Path="Language_Detection/Language_Detection.project" Active="No"/>
-  <Project Name="UVa-00230-Borrowers" Path="UVa-00230/UVa-00230.project" Active="Yes"/>
+  <Project Name="UVa-00414-Machined-Surfaces" Path="UVa-00414-Machined-Surfaces/UVa-00414-Machined-Surfaces.project" Active="No"/>
+  <Project Name="UVa-00394-MapMaker" Path="UVa-00394-MapMaker/UVa-00394-MapMaker.project" Active="No"/>
+  <Project Name="UVa-12279-Emoogle-Balance" Path="UVa-Emoogle-Balance/UVa-Emoogle-Balance.project" Active="No"/>
+  <Project Name="UVa-12289-One-Two-Three" Path="UVa-12289-One-Two-Three/UVa-12289-One-Two-Three.project" Active="No"/>
+  <Project Name="UVa-12372-Parking-For-Holiday" Path="UVa-12372-Parking-For-Holiday/UVa-12372-Parking-For-Holiday.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -24,7 +28,11 @@
       <Project Name="Automatic_Answer" ConfigName="Debug"/>
       <Project Name="Cost_Cutting" ConfigName="Debug"/>
       <Project Name="Language_Detection" ConfigName="Debug"/>
-      <Project Name="UVa-00230-Borrowers" ConfigName="Debug"/>
+      <Project Name="UVa-00414-Machined-Surfaces" ConfigName="Debug"/>
+      <Project Name="UVa-00394-MapMaker" ConfigName="Debug"/>
+      <Project Name="UVa-12279-Emoogle-Balance" ConfigName="Debug"/>
+      <Project Name="UVa-12289-One-Two-Three" ConfigName="Debug"/>
+      <Project Name="UVa-12372-Parking-For-Holiday" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -38,7 +46,11 @@
       <Project Name="Automatic_Answer" ConfigName="Release"/>
       <Project Name="Cost_Cutting" ConfigName="Release"/>
       <Project Name="Language_Detection" ConfigName="Release"/>
-      <Project Name="UVa-00230-Borrowers" ConfigName="Release"/>
+      <Project Name="UVa-00414-Machined-Surfaces" ConfigName="Release"/>
+      <Project Name="UVa-00394-MapMaker" ConfigName="Release"/>
+      <Project Name="UVa-12279-Emoogle-Balance" ConfigName="Release"/>
+      <Project Name="UVa-12289-One-Two-Three" ConfigName="Release"/>
+      <Project Name="UVa-12372-Parking-For-Holiday" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

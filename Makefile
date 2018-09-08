@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ UVa-00230-Borrowers - Debug ]----------"
-	@cd "UVa-00230" && "$(MAKE)" -f  "UVa-00230-Borrowers.mk"
+	@echo "----------Building project:[ UVa-12289-One-Two-Three - Debug ]----------"
+	@cd "UVa-12289-One-Two-Three" && "$(MAKE)" -f  "UVa-12289-One-Two-Three.mk"
 clean:
-	@echo "----------Cleaning project:[ UVa-00230-Borrowers - Debug ]----------"
-	@cd "UVa-00230" && "$(MAKE)" -f  "UVa-00230-Borrowers.mk" clean
+	@echo "----------Cleaning project:[ UVa-12289-One-Two-Three - Debug ]----------"
+	@cd "UVa-12289-One-Two-Three" && "$(MAKE)" -f  "UVa-12289-One-Two-Three.mk" clean
