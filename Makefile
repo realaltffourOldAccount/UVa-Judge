@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ UVa-12577-Hajj-e-Akbar - Debug ]----------"
-	@cd "UVa-12577-Hajj-e-Akbar" && "$(MAKE)" -f  "UVa-12577-Hajj-e-Akbar.mk"
+	@echo "----------Building project:[ UVa-00621-Secret-Research - Debug ]----------"
+	@cd "UVa-00621-Secret-Research" && "$(MAKE)" -f  "UVa-00621-Secret-Research.mk"
 clean:
-	@echo "----------Cleaning project:[ UVa-12577-Hajj-e-Akbar - Debug ]----------"
-	@cd "UVa-12577-Hajj-e-Akbar" && "$(MAKE)" -f  "UVa-12577-Hajj-e-Akbar.mk" clean
+	@echo "----------Cleaning project:[ UVa-00621-Secret-Research - Debug ]----------"
+	@cd "UVa-00621-Secret-Research" && "$(MAKE)" -f  "UVa-00621-Secret-Research.mk" clean

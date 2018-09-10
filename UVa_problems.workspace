@@ -2,6 +2,26 @@
 <CodeLite_Workspace Name="UVa_problems" Database="" Version="10.0.0">
   <Project Name="UVa-00414-Machined-Surfaces" Path="UVa-00414-Machined-Surfaces/UVa-00414-Machined-Surfaces.project" Active="No"/>
   <Project Name="UVa-00394-MapMaker" Path="UVa-00394-MapMaker/UVa-00394-MapMaker.project" Active="No"/>
+  <VirtualDirectory Name="Super Easy Problems">
+    <Project Name="TEX_Quotes" Path="TEX_Quotes/TEX_Quotes.project" Active="No"/>
+    <Project Name="Celebrity_Jeopardy" Path="Celebrity_Jeopardy/Celebrity_Jeopardy.project" Active="No"/>
+    <Project Name="Combination_Lock" Path="Combination_Lock/Combination_Lock.project" Active="No"/>
+    <Project Name="Searching_For_Nessy" Path="Searching_For_Nessy/Searching_For_Nessy.project" Active="No"/>
+    <Project Name="Relational_Operators" Path="Relational_Operators/Relational_Operators.project" Active="No"/>
+    <Project Name="Parking" Path="Parking/Parking.project" Active="No"/>
+    <Project Name="Division_Of_Nlogonia" Path="Division_Of_Nlogonia/Division_Of_Nlogonia.project" Active="No"/>
+    <Project Name="Automatic_Answer" Path="Automatic_Answer/Automatic_Answer.project" Active="No"/>
+    <Project Name="Cost_Cutting" Path="Cost_Cutting/Cost_Cutting.project" Active="No"/>
+    <Project Name="Language_Detection" Path="Language_Detection/Language_Detection.project" Active="No"/>
+    <Project Name="UVa-12279-Emoogle-Balance" Path="UVa-Emoogle-Balance/UVa-Emoogle-Balance.project" Active="No"/>
+    <Project Name="UVa-12289-One-Two-Three" Path="UVa-12289-One-Two-Three/UVa-12289-One-Two-Three.project" Active="No"/>
+    <Project Name="UVa-12372-Parking-For-Holiday" Path="UVa-12372-Parking-For-Holiday/UVa-12372-Parking-For-Holiday.project" Active="No"/>
+    <Project Name="UVa-12403-Save-Setu" Path="UVa-12403-Save-Setu/UVa-12403-Save-Setu.project" Active="No"/>
+    <Project Name="UVa-12577-Hajj-e-Akbar" Path="UVa-12577-Hajj-e-Akbar/UVa-12577-Hajj-e-Akbar.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Easy Problems">
+    <Project Name="UVa-00621-Secret-Research" Path="UVa-00621-Secret-Research/UVa-00621-Secret-Research.project" Active="Yes"/>
+  </VirtualDirectory>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -22,6 +42,7 @@
       <Project Name="UVa-12372-Parking-For-Holiday" ConfigName="Debug"/>
       <Project Name="UVa-12403-Save-Setu" ConfigName="Debug"/>
       <Project Name="UVa-12577-Hajj-e-Akbar" ConfigName="Debug"/>
+      <Project Name="UVa-00621-Secret-Research" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -42,23 +63,7 @@
       <Project Name="UVa-12372-Parking-For-Holiday" ConfigName="Release"/>
       <Project Name="UVa-12403-Save-Setu" ConfigName="Release"/>
       <Project Name="UVa-12577-Hajj-e-Akbar" ConfigName="Release"/>
+      <Project Name="UVa-00621-Secret-Research" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
-  <VirtualDirectory Name="Super Easy Problems">
-    <Project Name="TEX_Quotes" Path="TEX_Quotes/TEX_Quotes.project" Active="No"/>
-    <Project Name="Celebrity_Jeopardy" Path="Celebrity_Jeopardy/Celebrity_Jeopardy.project" Active="No"/>
-    <Project Name="Combination_Lock" Path="Combination_Lock/Combination_Lock.project" Active="No"/>
-    <Project Name="Searching_For_Nessy" Path="Searching_For_Nessy/Searching_For_Nessy.project" Active="No"/>
-    <Project Name="Relational_Operators" Path="Relational_Operators/Relational_Operators.project" Active="No"/>
-    <Project Name="Parking" Path="Parking/Parking.project" Active="No"/>
-    <Project Name="Division_Of_Nlogonia" Path="Division_Of_Nlogonia/Division_Of_Nlogonia.project" Active="No"/>
-    <Project Name="Automatic_Answer" Path="Automatic_Answer/Automatic_Answer.project" Active="No"/>
-    <Project Name="Cost_Cutting" Path="Cost_Cutting/Cost_Cutting.project" Active="No"/>
-    <Project Name="Language_Detection" Path="Language_Detection/Language_Detection.project" Active="No"/>
-    <Project Name="UVa-12279-Emoogle-Balance" Path="UVa-Emoogle-Balance/UVa-Emoogle-Balance.project" Active="No"/>
-    <Project Name="UVa-12289-One-Two-Three" Path="UVa-12289-One-Two-Three/UVa-12289-One-Two-Three.project" Active="No"/>
-    <Project Name="UVa-12372-Parking-For-Holiday" Path="UVa-12372-Parking-For-Holiday/UVa-12372-Parking-For-Holiday.project" Active="No"/>
-    <Project Name="UVa-12403-Save-Setu" Path="UVa-12403-Save-Setu/UVa-12403-Save-Setu.project" Active="No"/>
-    <Project Name="UVa-12577-Hajj-e-Akbar" Path="UVa-12577-Hajj-e-Akbar/UVa-12577-Hajj-e-Akbar.project" Active="Yes"/>
-  </VirtualDirectory>
 </CodeLite_Workspace>
