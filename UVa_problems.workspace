@@ -23,7 +23,9 @@
     <Project Name="UVa-00621-Secret-Research" Path="UVa-00621-Secret-Research/UVa-00621-Secret-Research.project" Active="No"/>
     <Project Name="UVa-10114-Loansome-Car-Buyer" Path="UVa-10114-Loansome-Car-Buyer/UVa-10114-Loansome-Car-Buyer.project" Active="No"/>
     <Project Name="UVa-10300-Ecological-Problem" Path="UVa-10300-Ecological-Problem/UVa-10300-Ecological-Problem.project" Active="No"/>
-    <Project Name="UVa-10963-The-Swallowing-Ground" Path="UVa-10963-The-Swallowing-Ground/UVa-10963-The-Swallowing-Ground.project" Active="Yes"/>
+    <Project Name="UVa-10963-The-Swallowing-Ground" Path="UVa-10963-The-Swallowing-Ground/UVa-10963-The-Swallowing-Ground.project" Active="No"/>
+    <Project Name="UVa-11332-Summing-Digits" Path="UVa-11332-Summing-Digits/UVa-11332-Summing-Digits.project" Active="No"/>
+    <Project Name="UVa-11559-Event-Planning" Path="UVa-11559-Event-Planning/UVa-11559-Event-Planning.project" Active="Yes"/>
   </VirtualDirectory>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
@@ -49,6 +51,8 @@
       <Project Name="UVa-10114-Loansome-Car-Buyer" ConfigName="Debug"/>
       <Project Name="UVa-10300-Ecological-Problem" ConfigName="Debug"/>
       <Project Name="UVa-10963-The-Swallowing-Ground" ConfigName="Debug"/>
+      <Project Name="UVa-11332-Summing-Digits" ConfigName="Debug"/>
+      <Project Name="UVa-11559-Event-Planning" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -73,6 +77,8 @@
       <Project Name="UVa-10114-Loansome-Car-Buyer" ConfigName="Release"/>
       <Project Name="UVa-10300-Ecological-Problem" ConfigName="Release"/>
       <Project Name="UVa-10963-The-Swallowing-Ground" ConfigName="Release"/>
+      <Project Name="UVa-11332-Summing-Digits" ConfigName="Release"/>
+      <Project Name="UVa-11559-Event-Planning" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
